@@ -1,6 +1,6 @@
 # twitter-bot-nodejs
 
-### Twitter Bot to update name to show like and retweet of a particular tweet.
+### Twitter Bot in nodejs to update name to show like and retweet of a particular tweet.
 
 ## Example Tweet Link => https://twitter.com/jainsanmati846/status/1315114170933628929?s=20
 
