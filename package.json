@@ -1,0 +1,15 @@
+{
+    "name": "twitter-bot-nodejs",
+    "version": "1.0.0",
+    "description": "Twitter Bot to update name to show like and retweet of a particular tweet.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Sanmati Kumar Jain",
+    "license": "ISC",
+    "dependencies": {
+        "node-cron": "^2.0.3",
+        "twitter-lite": "^0.14.0"
+    }
+}
